@@ -34,4 +34,4 @@ if not title:
       print("Blank title")
 print(image_path == title)
 
-git init
+
